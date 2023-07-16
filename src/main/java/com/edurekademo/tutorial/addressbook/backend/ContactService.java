@@ -16,11 +16,11 @@ import java.util.logging.Logger;
 public class ContactService {
 
     // Create dummy data by randomly combining first and last names
-    static String[] fnames = { "Zakyyy", "3mr_yehia", "Joe", "Saleh-el-halaby", "Olivia",
+    static String[] fnames = { "Zakyyy", "3mr_yehia", "Joe", "Saleh", "Olivia",
             "Nina", "Alex", "Rita", "3t3ooot", "Umberto", "Henrik", "Rene", "Lisa",
             "Linda", "Timothy", "Daniel", "Brian", "George", "Scott",
             "Jennifer" };
-    static String[] lnames = { "Smith", "Johnson", "Williams", "Jones",
+    static String[] lnames = { "El Halaby", "Johnson", "Williams", "Jones",
             "Brown", "Davis", "Miller", "Wilson", "Moore", "Taylor",
             "Anderson", "Thomas", "Jackson", "White", "Harris", "Martin",
             "Thompson", "Young", "King", "Robinson" };
